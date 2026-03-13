@@ -1,0 +1,10 @@
+node_modules
+.venv
+.next
+dist
+build
+.cache
+# .env # Removed by Orchids to allow .env files
+.DS_Store
+.git_corrupted
+.git_corrupted_backup
